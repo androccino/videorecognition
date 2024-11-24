@@ -1,0 +1,2 @@
+# videorecognition
+Rust + OpenCV 
