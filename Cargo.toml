@@ -1,0 +1,10 @@
+[package]
+name = "videorecognition"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clang-sys = "1.8"
+opencv = "0.93.4"
+crossbeam = "0.8.4"
+crossbeam-channel = "0.5"
