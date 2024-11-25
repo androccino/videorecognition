@@ -6,7 +6,7 @@ use opencv::{
 fn main() {
     
     //opencv::core::set_num_threads(0).unwrap(); // Disable OpenCV multi-threading
-    // Testvideo 2560x1440 58seconds
+    // Testvideo Resolution:2560x1440 FPS:60 Length:58seconds
     /* Allow auto Multithreading by opencv: 
     real    9m27.286s    //Used real clock time
     user    109m39.050s  //Used CPU time
